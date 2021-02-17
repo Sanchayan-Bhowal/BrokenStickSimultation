@@ -1,5 +1,3 @@
-# BrokenStickSimultation
-This is a C program to simulate the famous broken stick problem
 <!-- This is a read me file. -->
 <!-- Please read this file completely before executing the program. -->
 # Project Title:Broken Stick Simulation
